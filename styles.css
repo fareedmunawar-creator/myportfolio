@@ -14,7 +14,7 @@ body {
     width: 100%;
     background-color: #333;
     color: #fff;
-    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.45)), url('Images/bc.jpeg');
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.45)), url('Images/bc.webp');
     background-size: cover;
     background-position: center;
     padding: 40px 72px 38px 52px;
